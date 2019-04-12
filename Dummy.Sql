@@ -4,3 +4,6 @@ order by id,b
 
 
 Select * from Table_B
+
+
+Tested by Sonali
